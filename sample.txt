@@ -1,0 +1,7 @@
+Node.js is a JavaScript runtime.
+
+It allows us to build applications using JavaScript.
+We can also create command line applications.
+
+This project reads a text file and counts its lines,
+words, and characters.
